@@ -1,0 +1,29 @@
+.input_field {
+    width: 480px;
+}
+
+table {
+    border-spacing: 1.5rem;
+}
+
+.detail{
+    height:7rem;
+    width: 150px;
+}
+
+#something{
+    height:7rem;
+}
+
+#send {
+    padding:0.6em;
+    margin-left: 200px;
+    display: block;
+    background-color: teal;
+    border: none;
+}
+
+#send:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
